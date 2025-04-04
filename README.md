@@ -8,6 +8,6 @@ If using a package manager, such as conda, you can instead run "conda install an
 
 jupyter notebook tut1_getting_started.ipynb
 
-will launch the first tutorial. Viewing the tutorials through vscode is another great option (and is my preference), which is made possible possible through the jupyter extension tools that vscode provides. Additionally, this will allow you to step through code blocks and set break points, which is very nice extra.
+will launch the first tutorial. Viewing the tutorials through vscode is another great option (and is my preference), which is made possible possible through the jupyter extension tools that vscode provides. Additionally, this will allow you to step through code blocks and set break points, which is a very nice extra.
 
 Enjoy!
